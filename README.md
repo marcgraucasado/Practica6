@@ -1,6 +1,6 @@
 # PR6-MarcGrau  
 
-## PRÁCTICA 6: Buses de comunicación II (SPI)
+## PRÁCTICA 6: Buses de comunicación 2 (SPI)
 
 ### Ejercicio Práctico A
 
