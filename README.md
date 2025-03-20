@@ -58,7 +58,7 @@
     {
     }
 ```
-Descripción del código:
+### Descripción del código:
 En este código se utiliza una tarjeta SD para escribir y leer archivos. Primero, se incluyen las bibliotecas necesarias, como SPI y SD. Luego, se define una función llamada writeFile(), que toma un sistema de archivos (fs), una ruta de archivo y un mensaje para escribir en el archivo.
 
 En la función setup(), que se ejecuta una vez al inicio, se inicia la comunicación serial para la depuración, se configura la comunicación SPI y se intenta inicializar la tarjeta SD. Si la inicialización tiene éxito, se crea un archivo llamado "hello1.txt" con el contenido "Hello world 1, PD" utilizando la función writeFile(). Después, se intenta abrir y leer un archivo llamado "arxivo.txt", mostrando su contenido si se abre correctamente.
