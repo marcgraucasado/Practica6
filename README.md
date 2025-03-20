@@ -117,4 +117,4 @@ La función loop() se ejecuta en un ciclo continuo. En esta función, se verific
 
 Para el primer ejercicio: establece la comunicación con la tarjeta SD, escribe en un archivo y luego lee desde otro archivo.
 
-Para el segundo ejercicio: Facilita la detección y lectura de tarjetas RFID mediante la integración del módulo MFRC522, ofreciendo una forma sencilla de que dispositivos RFID interactuen en proyectos electrónicos.
+Para el segundo ejercicio: facilita la detección y lectura de tarjetas RFID mediante la integración del módulo MFRC522, ofreciendo una forma sencilla de que dispositivos RFID interactuen en proyectos electrónicos.
